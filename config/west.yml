@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/zmkfirmware
   projects:
     - name: zmk
-      remote: ZitaoTech
+      remote: zmkfirmware
       revision: v0.3.0
       import: app/west.yml
   self:
